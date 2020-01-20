@@ -1,1 +1,1 @@
-console.log('Hello world')
+const greet = () => console.log('meow');
